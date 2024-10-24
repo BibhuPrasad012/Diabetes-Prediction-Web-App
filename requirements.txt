@@ -92,13 +92,11 @@ pydeck==0.9.1
 Pygments==2.18.0
 pyls-spyder==0.4.0
 pyparsing==3.2.0
-pyproject_hooks==1.2.0
 PyQt5==5.15.10
 PyQtWebEngine==5.15.6
 python-dateutil==2.9.0.post0
 python-json-logger==2.0.7
 pywinpty==2.0.13
-PyYAML==6.0.2
 pyzmq==26.1.0
 qtconsole==5.5.2
 QtPy==2.4.1
